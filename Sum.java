@@ -3,4 +3,3 @@ public class Sum {
         System.out.println(args[0]+args[1]);
     }
 }
-}
